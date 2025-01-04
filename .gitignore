@@ -1,0 +1,13 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# System files
+.DS_Store
+
+# Transcription files
+transcriptions/
