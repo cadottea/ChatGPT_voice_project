@@ -8,6 +8,7 @@ venv/
 
 # System files
 .DS_Store
+git_commands.sh
 
 # Transcription files
 transcriptions/
